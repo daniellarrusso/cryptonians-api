@@ -1,0 +1,8 @@
+/Users/nathanadams/cryptonians-api/bin/Debug/netcoreapp1.1/cryptonians-api.deps.json
+/Users/nathanadams/cryptonians-api/bin/Debug/netcoreapp1.1/cryptonians-api.runtimeconfig.json
+/Users/nathanadams/cryptonians-api/bin/Debug/netcoreapp1.1/cryptonians-api.runtimeconfig.dev.json
+/Users/nathanadams/cryptonians-api/bin/Debug/netcoreapp1.1/cryptonians-api.dll
+/Users/nathanadams/cryptonians-api/bin/Debug/netcoreapp1.1/cryptonians-api.pdb
+/Users/nathanadams/cryptonians-api/obj/Debug/netcoreapp1.1/cryptonians-api.AssemblyInfo.cs
+/Users/nathanadams/cryptonians-api/obj/Debug/netcoreapp1.1/cryptonians-api.dll
+/Users/nathanadams/cryptonians-api/obj/Debug/netcoreapp1.1/cryptonians-api.pdb
